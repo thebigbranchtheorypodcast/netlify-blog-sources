@@ -1,0 +1,21 @@
+---
+title: "$Title"
+date: $Date
+image: $Cover
+audio:
+  - "$AudioUrl"
+---
+
+# $Title
+
+$Description
+
+{{< rawHtml >}}
+<audio style="width:100%" controls>
+  <source src="$AudioUrl" type="audio/mpeg">
+</audio> 
+{{< /rawHtml >}}
+
+
+
+

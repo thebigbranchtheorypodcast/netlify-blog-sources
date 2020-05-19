@@ -1,0 +1,10 @@
+{
+  "name": "PodcastSitePostGenerator",
+  "version": "1.0.0",
+  "description": "Create post for the feed rss",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "podcast-feed": "^1.0.6"
+  }
+}

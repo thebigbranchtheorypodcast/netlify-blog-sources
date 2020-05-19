@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[The Big Branch Theory]]></title>
+		<description><![CDATA[Un espacio para hablar sobre experiencias como programadores en varias empresas y sobre diversos temas. Cada episodio hablaremos de un tema, de sus beneficios, de sus dificultades pero sobre todo de nuestras experiencias. En algunos programas contaremos con gente que aporte su propio punto de vista, y si no podemos, estaremos atentos a quien quiera debatir después de que se emita el episodio.
+
+Contenido distribuido bajo licencia Creative Commons 4.0 (https://creativecommons.org/licenses/by/4.0/deed.es)]]></description>
+		<link>https://codesai.com</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/810990/810990-1587195047082-864dc9d8da5d3.jpg</url>
+			<title>The Big Branch Theory</title>
+			<link>https://codesai.com</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sat, 16 May 2020 17:03:37 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/56e0f78/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Alfredo, Dani, Juan y Miguel]]></author>
+		<copyright><![CDATA[Alfredo, Dani, Juan y Miguel]]></copyright>
+		<language><![CDATA[es]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Alfredo, Dani, Juan y Miguel</itunes:author>
+		<itunes:summary>Un espacio para hablar sobre experiencias como programadores en varias empresas y sobre diversos temas. Cada episodio hablaremos de un tema, de sus beneficios, de sus dificultades pero sobre todo de nuestras experiencias. En algunos programas contaremos con gente que aporte su propio punto de vista, y si no podemos, estaremos atentos a quien quiera debatir después de que se emita el episodio.
+
+Contenido distribuido bajo licencia Creative Commons 4.0 (https://creativecommons.org/licenses/by/4.0/deed.es)</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Alfredo, Dani, Juan y Miguel</itunes:name>
+			<itunes:email>thebigbranchtheory@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/810990/810990-1587195047082-864dc9d8da5d3.jpg"/>
+		<item>
+			<title><![CDATA[Formación y experiencia como programador]]></title>
+			<description><![CDATA[Hoy nos llenamos de valentía e intentamos hablar sobre un tema muy amplio y complejo. Damos un pequeño repaso a cosas que nos funcionan en cada una de nuestras circunstancia y cosas que nos han funcionado en el pasado. Desde nuestra etapa inicial muy vinculada  a la universidad a nuestro día a día donde hay que compaginar y encontrar un buen balance. Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+Hoy nos llenamos de valentía e intentamos hablar sobre un tema muy amplio y complejo. Damos un pequeño repaso a cosas que nos funcionan en cada una de nuestras circunstancia y cosas que nos han funcionado en el pasado. Desde nuestra etapa inicial muy vinculada  a la universidad a nuestro día a día donde hay que compaginar y encontrar un buen balance. Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+
+Se menciona en el episodio:
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+
+En este episodio participan
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+
+Foto de www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message]]></description>
+			<link>https://anchor.fm/thebigbranchtheory/episodes/Formacin-y-experiencia-como-programador-edh8kb</link>
+			<guid isPermaLink="false">133201fd-68b6-4fc4-a222-96fd76a1aad7</guid>
+			<dc:creator><![CDATA[Alfredo, Dani, Juan y Miguel]]></dc:creator>
+			<pubDate>Wed, 06 May 2020 16:20:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/56e0f78/podcast/play/13197387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69840000-44100-2-1ce1353ed6d99.mp3" length="110427245" type="audio/mpeg"/>
+			<itunes:summary>Hoy nos llenamos de valentía e intentamos hablar sobre un tema muy amplio y complejo. Damos un pequeño repaso a cosas que nos funcionan en cada una de nuestras circunstancia y cosas que nos han funcionado en el pasado. Desde nuestra etapa inicial muy vinculada  a la universidad a nuestro día a día donde hay que compaginar y encontrar un buen balance. Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+Hoy nos llenamos de valentía e intentamos hablar sobre un tema muy amplio y complejo. Damos un pequeño repaso a cosas que nos funcionan en cada una de nuestras circunstancia y cosas que nos han funcionado en el pasado. Desde nuestra etapa inicial muy vinculada  a la universidad a nuestro día a día donde hay que compaginar y encontrar un buen balance. Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+
+Se menciona en el episodio:
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+
+En este episodio participan
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+
+Foto de www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3450</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1588422642334-8db8f09068134.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Microservicios]]></title>
+			<description><![CDATA[
+Segunda entrega con un formato algo distinto, debatimos un poco sobre nuestra experiencia desde que empezamos con microservicios hasta la actualidad y como hemos ido cambiando de parecer. Encontrando todas las fortalezas y pasando por los posibles problemas de esta arquitectura.
+Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+En este episodio participan:
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+Foto de https://www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message]]></description>
+			<link>https://anchor.fm/thebigbranchtheory/episodes/Microservicios-ecue27</link>
+			<guid isPermaLink="false">57d1cae5-13f5-4c89-a752-09a313c112c2</guid>
+			<dc:creator><![CDATA[Alfredo, Dani, Juan y Miguel]]></dc:creator>
+			<pubDate>Fri, 17 Apr 2020 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/56e0f78/podcast/play/12580359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65526009-44100-2-7a143947eccb3.mp3" length="93117882" type="audio/mpeg"/>
+			<itunes:summary>
+Segunda entrega con un formato algo distinto, debatimos un poco sobre nuestra experiencia desde que empezamos con microservicios hasta la actualidad y como hemos ido cambiando de parecer. Encontrando todas las fortalezas y pasando por los posibles problemas de esta arquitectura.
+Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+En este episodio participan:
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+Foto de https://www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2909</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1587196269698-9dae5ae10fe0d.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Pair Programming]]></title>
+			<description><![CDATA[En este episodio hablamos sobre como ve cada uno de nosotros el Pair Programming, que dificultades hemos encontrado aplicandola, recordamos algunos mitos y finalmente hacemos un pequeño resumen para quienes que esten interesado en ponerse manos a la obra.
+Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+En este episodio participan:
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+
+Foto de https://www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message]]></description>
+			<link>https://anchor.fm/thebigbranchtheory/episodes/Pair-Programming-ecue4n</link>
+			<guid isPermaLink="false">b0f2400a-aeac-4d66-b0a4-69629c38f53b</guid>
+			<dc:creator><![CDATA[Alfredo, Dani, Juan y Miguel]]></dc:creator>
+			<pubDate>Fri, 10 Apr 2020 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/56e0f78/podcast/play/12580439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65525964-44100-2-388c45bf35c3b.mp3" length="122742830" type="audio/mpeg"/>
+			<itunes:summary>En este episodio hablamos sobre como ve cada uno de nosotros el Pair Programming, que dificultades hemos encontrado aplicandola, recordamos algunos mitos y finalmente hacemos un pequeño resumen para quienes que esten interesado en ponerse manos a la obra.
+Si tienes algo que aportar contacta con nosotros y hablemos para hacer el podcast más diverso.
+En este episodio participan:
+- Alfredo Casado (https://twitter.com/AlfredoCasado)
+- Daniel Ojeda (https://twitter.com/SuuiGD)
+- Juan Vega (https://twitter.com/juandvegarguez)
+- Miguel Viera (https://twitter.com/mangelviera)
+
+Foto de https://www.pexels.com
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+--- 
+
+Send in a voice message: https://anchor.fm/thebigbranchtheory/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3835</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1587196113098-b74f19beba8bd.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

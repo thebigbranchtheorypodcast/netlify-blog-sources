@@ -1,0 +1,12 @@
+- item: Sobre Nosotros
+  url: about/
+- item: Feed
+  url: categories/development/
+- item: Spotify
+  url: categories/golang/
+- item: iVoox
+  url: tags/go/
+- item: Apple Podcast
+  url: tags/go/
+- item: Google Podcasts
+  url: tags/go/
