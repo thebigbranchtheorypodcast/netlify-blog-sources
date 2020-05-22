@@ -1,12 +1,12 @@
 - item: Sobre Nosotros
-  url: about/
+  url: bienvenida/
 - item: Feed
-  url: categories/development/
+  url: https://anchor.fm/s/56e0f78/podcast/rss
 - item: Spotify
-  url: categories/golang/
+  url: https://open.spotify.com/show/0nEgeCdO0r6u1GjE3AkJM8
 - item: iVoox
-  url: tags/go/
+  url: https://www.ivoox.com/p_sq_f1895504_1.html
 - item: Apple Podcast
-  url: tags/go/
+  url: https://podcasts.apple.com/es/podcast/the-big-branch-theory/id1511403790
 - item: Google Podcasts
-  url: tags/go/
+  url: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz
