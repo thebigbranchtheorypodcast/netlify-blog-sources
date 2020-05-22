@@ -6,7 +6,7 @@
 {{- $title := .Title }}
 {{- $params := .Site.Params }}
 {{- $permalink := .Permalink }}
-{{- $logo := absURL (printf "images/%s" $params.logo) }}
+{{- $logo := $params.logo }}
 {{- $image := absURL (printf "images/%s" $params.image) }}
 {{- $author := $params.author }}
 {{- with .Params.author }}
