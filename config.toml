@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://thebigbranchtheorypodcast.github.io/"
 languageCode = "es-Es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
