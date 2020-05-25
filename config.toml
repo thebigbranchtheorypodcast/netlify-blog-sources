@@ -2,11 +2,16 @@ baseURL = "https://thebigbranchtheorypodcast.github.io/"
 languageCode = "es-Es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
+
 disqusShortname = "juandavidvega"
+googleAnalytics = "UA-167571354-1"
+
 author = "Equipo The Big Branch Theory"
 copyright = "Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional."
 canonifyurls = true
 paginate = 4
+
+
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 # pygmentsCodefences = true

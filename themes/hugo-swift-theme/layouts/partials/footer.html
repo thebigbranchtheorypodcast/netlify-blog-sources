@@ -6,4 +6,5 @@
 </footer>
 {{- $mainScriptPath := "js/index.js" }}
 {{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+{{ template "_internal/google_analytics.html" . }}
 <script src = '{{ $scripts.Permalink }}'></script>
