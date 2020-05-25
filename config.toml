@@ -3,7 +3,7 @@ languageCode = "es-Es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
 
-disqusShortname = "juandavidvega"
+disqusShortname = "thebigbranchtheorypodcast"
 googleAnalytics = "UA-167571354-1"
 
 author = "Equipo The Big Branch Theory"
