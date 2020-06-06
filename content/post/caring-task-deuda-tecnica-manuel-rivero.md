@@ -14,6 +14,7 @@ Lo que propone este marco de trabajo es referenciar todo el trabajo de manteniem
 
 En esta **primera parte** tengo una charla con Manu para que nos explique como ha sido el proceso de definir e intentar trabajar de una forma distinta usando un enfoque de _Tareas de cuidado_, para gestionar el trabajo de manteniemiento y sostenibilidad del sistema. El siguiente episodio será una **segunda parte** donde Miguel y Alfredo cuentan su experiencia siguiendo el mismo modelo en otra  empresa. 
 
+Manuel Rivero esta trabajando en un post para el [blog de codesai](https://codesai.com) donde tambien contará todo esto, en cuanto este disponible lo añadiremos a estas notas.
 
 Cualquier feedback será bien recibido. A falta de acabar nuestra web si quieres, puedes dejarnos comentarios en twitter o a nuestro email thebigbranchtheory@gmail.com
 
