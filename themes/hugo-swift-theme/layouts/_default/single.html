@@ -12,6 +12,11 @@
 </section>
 <div class = 'post'>
   <article class='post_content'>
+    {{- if isset .Params "audio" }}
+    <audio style="width:100%" controls>
+      <source src="{{ .Params.audio }}" type="audio/mpeg">
+    </audio> 
+    {{- end }}
     {{- .Content }}
     <div class = 'post_extra'>
       {{- partial "copy" . }}

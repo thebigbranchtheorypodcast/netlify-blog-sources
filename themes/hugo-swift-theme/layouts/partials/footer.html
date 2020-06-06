@@ -1,4 +1,11 @@
 <footer class = 'footer'>
+  
+  <div class = 'footer_inner wrap pale'>
+    {{- range .Site.Data.menu }}
+    <a href="{{ absURL .url }}" class="nav_item">{{ .item }}</a>
+    {{- end }}
+  </div>
+
   <div class = 'footer_inner wrap pale'>
     <p>&copy;&nbsp;<span class = 'year'></span>&nbsp;{{ .Site.Title }}.
     Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.

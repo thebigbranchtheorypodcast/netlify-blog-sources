@@ -12,12 +12,12 @@ El nombre, decidido bajo arduo consenso y discusiones interminables de 10 minuto
 Lejos de ser un grupo cerrados nos gustaría contar con el mayor número de opiniones posibles, puedes contactarnos en twitter o si prefieres enviamos un mail a thebigbranchtheory@gmail.com
 
 
-Participantes:
+Participantes habituales:
 
-- Alfredo Casado (https://twitter.com/AlfredoCasado)
-- Daniel Ojeda (https://twitter.com/SuuiGD) 
-- Juan Vega (https://twitter.com/juandvegarguez)
-- Miguel Viera (https://twitter.com/mangelviera)
-- Ronny Ancorini (https://twitter.com/RonnyAncorini)
+- [Alfredo Casado](https://twitter.com/AlfredoCasado)
+- [Daniel Ojeda](https://twitter.com/SuuiGD) 
+- [Juan Vega](https://twitter.com/juandvegarguez)
+- [Miguel Viera](https://twitter.com/mangelviera)
+- [Ronny Ancorini](https://twitter.com/RonnyAncorini)
 
 Foto de https://pexels.com

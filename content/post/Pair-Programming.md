@@ -2,8 +2,7 @@
 title: "Pair Programming"
 date: 2020-04-10
 image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1587196113098-b74f19beba8bd.jpg
-audio:
-  - "https://anchor.fm/s/56e0f78/podcast/play/12580439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65525964-44100-2-388c45bf35c3b.mp3"
+audio: "https://anchor.fm/s/56e0f78/podcast/play/12580439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65525964-44100-2-388c45bf35c3b.mp3"
 ---
 
 # Pair Programming
@@ -19,17 +18,4 @@ En este episodio participan:
 Foto de https://www.pexels.com
 
 Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
-
---- 
-
-Send in a voice message: https://anchor.fm/thebigbranchtheory/message
-
-{{< rawHtml >}}
-<audio style="width:100%" controls>
-  <source src="https://anchor.fm/s/56e0f78/podcast/play/12580439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65525964-44100-2-388c45bf35c3b.mp3" type="audio/mpeg">
-</audio> 
-{{< /rawHtml >}}
-
-
-
 

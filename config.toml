@@ -9,7 +9,7 @@ googleAnalytics = "UA-167571354-1"
 author = "Equipo The Big Branch Theory"
 copyright = "Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional."
 canonifyurls = true
-paginate = 4
+paginate = 10
 
 
 # Enable syntax highlighting

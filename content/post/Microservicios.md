@@ -2,8 +2,7 @@
 title: "Microservicios"
 date: 2020-04-17
 image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1587196269698-9dae5ae10fe0d.jpg
-audio:
-  - "https://anchor.fm/s/56e0f78/podcast/play/12580359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65526009-44100-2-7a143947eccb3.mp3"
+audio: "https://anchor.fm/s/56e0f78/podcast/play/12580359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65526009-44100-2-7a143947eccb3.mp3"
 ---
 
 # Microservicios
@@ -19,16 +18,6 @@ En este episodio participan:
 Foto de https://www.pexels.com
 
 Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
-
---- 
-
-Send in a voice message: https://anchor.fm/thebigbranchtheory/message
-
-{{< rawHtml >}}
-<audio style="width:100%" controls>
-  <source src="https://anchor.fm/s/56e0f78/podcast/play/12580359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-18%2F65526009-44100-2-7a143947eccb3.mp3" type="audio/mpeg">
-</audio> 
-{{< /rawHtml >}}
 
 
 

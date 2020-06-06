@@ -2,8 +2,7 @@
 title: "Formación y experiencia como programador"
 date: 2020-05-06
 image: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/810990/810990-1588422642334-8db8f09068134.jpg
-audio:
-  - "https://anchor.fm/s/56e0f78/podcast/play/13197387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69840000-44100-2-1ce1353ed6d99.mp3"
+audio: "https://anchor.fm/s/56e0f78/podcast/play/13197387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69840000-44100-2-1ce1353ed6d99.mp3"
 ---
 
 # Formación y experiencia como programador
@@ -24,15 +23,6 @@ Foto de www.pexels.com
 
 Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
 
---- 
-
-Send in a voice message: https://anchor.fm/thebigbranchtheory/message
-
-{{< rawHtml >}}
-<audio style="width:100%" controls>
-  <source src="https://anchor.fm/s/56e0f78/podcast/play/13197387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69840000-44100-2-1ce1353ed6d99.mp3" type="audio/mpeg">
-</audio> 
-{{< /rawHtml >}}
 
 
 
