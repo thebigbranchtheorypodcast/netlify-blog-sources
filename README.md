@@ -32,9 +32,10 @@ That command will start a local server on http://localhost:1313
 
 Current **public** folder is a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) that points to [generated sources repository](https://github.com/thebigbranchtheorypodcast/thebigbranchtheorypodcast.github.io), so to deploy the site you must build and then commit and push within the submodule
 
-1. `hugo`
-2. `cd public`
-3. `git add .`
-4. `git commit -m "A commit message"`
-5. `git push`
+1. First make sure that you submodule is synczed with origin `git submodule update --init`
+2. `hugo`
+3. `cd public`
+4. `git add .`
+5. `git commit -m "A commit message"`
+6. `git push`
 
