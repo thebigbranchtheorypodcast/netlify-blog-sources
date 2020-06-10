@@ -3,6 +3,12 @@ title: "Caring Task con Manuel Rivero, Parte 1."
 date: 2020-06-06
 image: https://thebigbranchtheorypodcast.github.io/covers/metodo-caring.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/14859007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-7%2F80239466-44100-2-dcc43f4ff72bb.mp3"
+platforms:
+  spotify: "https://open.spotify.com/episode/6BzxmYVJpqEOYwoJU3vVjb"
+  apple: "https://podcasts.apple.com/es/podcast/caring-task-con-manuel-rivero-parte-1/id1511403790?i=1000477399766"
+  google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/MjgzMTMzMTUtMTBhMC00MjU4LTgyMjctMDBmMzIxOTQzOTYx?ved=0CAcQ38oDahcKEwigx6Gc8vbpAhUAAAAAHQAAAAAQAQ"
+  ivoox: "https://www.ivoox.com/caring-task-manuel-rivero-parte-1-audios-mp3_rf_51916673_1.html"
+  anchor: "https://anchor.fm/thebigbranchtheory/episodes/Caring-Task-con-Manuel-Rivero--Parte-1-ef3v9v"
 ---
 
 # Caring Task y aporte de Valor

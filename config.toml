@@ -1,5 +1,6 @@
 baseURL = "https://thebigbranchtheorypodcast.github.io/"
-languageCode = "es-Es"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
 
