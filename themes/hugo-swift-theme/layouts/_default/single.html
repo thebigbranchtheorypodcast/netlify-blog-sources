@@ -13,9 +13,25 @@
 <div class = 'post'>
   <article class='post_content'>
     {{- if isset .Params "audio" }}
-    <audio style="width:100%" controls>
-      <source src="{{ .Params.audio }}" type="audio/mpeg">
-    </audio> 
+    <div class="audio-section">
+      <audio style="width:100%" controls>
+        <source src="{{ .Params.audio }}" type="audio/mpeg">
+      </audio> 
+      {{- if isset .Params "platforms" }}
+        <p>{{i18n "listenOn" }}</p>
+        <div class="audio-platforms-url">
+          
+          {{ range $platform_name, $url := .Params.platforms }}
+            
+              <a class="audio-icon" target="_blank" href="{{ $url }}">
+                <img src="/icons/{{ $platform_name }}.png" />
+              </a>
+            
+          {{ end }}
+        </div>
+      {{- end }}
+    </div>
+    
     {{- end }}
     {{- .Content }}
     <div class = 'post_extra'>
