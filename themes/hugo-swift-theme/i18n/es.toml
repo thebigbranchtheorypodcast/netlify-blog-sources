@@ -66,3 +66,5 @@
   other = "Discard Comment"
 [listenOn]
   other = "Escuchar en"
+[download]
+  other = "Descargar"

@@ -66,3 +66,5 @@
   other = "Discard Comment"
 [listenOn]
   other = "Listen on"
+[download]
+  other = "Download"

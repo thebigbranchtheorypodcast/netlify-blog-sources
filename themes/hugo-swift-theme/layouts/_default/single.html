@@ -14,9 +14,12 @@
   <article class='post_content'>
     {{- if isset .Params "audio" }}
     <div class="audio-section">
-      <audio style="width:100%" controls>
-        <source src="{{ .Params.audio }}" type="audio/mpeg">
-      </audio> 
+    <div class="audio">
+        <audio style="width:100%" controls>
+          <source src="{{ .Params.audio }}" type="audio/mpeg">
+        </audio>
+        <a href="{{ .Params.audio }}">{{i18n "download" }}</a>
+      </div>
       {{- if isset .Params "platforms" }}
         <p>{{i18n "listenOn" }}</p>
         <div class="audio-platforms-url">
