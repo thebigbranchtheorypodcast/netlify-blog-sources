@@ -17,7 +17,7 @@ Como mencionabamos en el episodio anterior sobre [Deuda Ténica](/post/deuda-té
 
 Lo que propone este marco de trabajo es una redefinición del concepto de valor para empezar a considerar valioso para la empresa no sólo el trabajo hasta ahora considerado como productivo (sacar funcionalidad), si no también todo el trabajo dedicado a cuidar de la sostenibilidad del sistema que genera valor:  el software y el equipo, que denominan tareas de cuidados.
 
-En esta **primera parte** tengo una charla con Manu para que nos explique como ha sido el proceso de trabajar usando la narrativa de tareas de cuidado, para mejorar la eficiencia y sostenibilidad del sistema. El siguiente episodio será una **segunda parte** donde Miguel y Alfredo cuentan su experiencia siguiendo el mismo modelo en otro equipo, y hablarán junto con Manuel de cómo se diferencia de la metáfora de deuda técnica. 
+En esta **primera parte** tengo una charla con Manu para que nos explique como ha sido el proceso de trabajar usando la narrativa de tareas de cuidado, para mejorar la eficiencia y sostenibilidad del sistema. El siguiente episodio será una **[segunda parte](/post/caring-task-deuda-tecnica-manuel-rivero-parte-2/)** donde Miguel y Alfredo cuentan su experiencia siguiendo el mismo modelo en otro equipo, y hablarán junto con Manuel de cómo se diferencia de la metáfora de deuda técnica. 
 
 Manuel Rivero publicará pronto  un post en el [blog de codesai](https://codesai.com) donde profundizará en este tema. En cuanto este disponible lo añadiremos a estas notas.
 

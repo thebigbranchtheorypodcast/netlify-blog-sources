@@ -1,6 +1,6 @@
 ---
-title: "Caring Task con Manuel Rivero, Parte 1."
-date: 2020-06-06
+-title: "{{ replace .Name "-" " " | title }}"
+-date: {{ .Date }}
 image: "" # cover image absUrl
 audio: ""
 platforms:
