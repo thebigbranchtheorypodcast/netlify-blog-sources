@@ -3,6 +3,7 @@ languageCode = "es"
 defaultContentLanguage = "es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
+enableEmoji = true
 
 disqusShortname = "thebigbranchtheorypodcast"
 googleAnalytics = "UA-167571354-1"
