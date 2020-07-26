@@ -19,9 +19,6 @@ Así que para cerrar este _bloque temático_ presentamos un podcast donde entram
 
 Esas y otras muchas preguntas con sus respuestas es lo que debatimos hoy.
 
-# RELLENAR CON ALGO O DEJAR ASÍ NO SÉ
-
-
 En este episodio participan 
 
 - [Alfredo Casado](https://twitter.com/AlfredoCasado)
@@ -37,8 +34,6 @@ En este episodio participan
 [https://www.infoq.com/articles/managing-technical-debt/](https://www.infoq.com/articles/managing-technical-debt/)
 
 [https://www.pluralsight.com/tech-blog/managing-technical-debt](https://www.pluralsight.com/tech-blog/managing-technical-debt)
-
-Wall Of Technical Debt example
 
 3X Kent Beck [https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a?gi=14fbd15b7f37](https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a?gi=14fbd15b7f37)
 
