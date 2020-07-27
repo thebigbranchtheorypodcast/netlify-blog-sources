@@ -4,11 +4,11 @@ date: 2020-07-22
 image: https://thebigbranchtheorypodcast.github.io/covers/deuda-tecnica-dia-a-dia.jpg
 audio: ""
 platforms:
-  spotify: ""
-  apple: ""
-  google: ""
-  ivoox: ""
-  anchor: ""
+  spotify: "https://open.spotify.com/episode/7td3dNAB968AxgCzHwi8RQ"
+  apple: "https://podcasts.apple.com/es/podcast/deuda-t%C3%A9cnica-en-el-d%C3%ADa-a-d%C3%ADa/id1511403790?i=1000486200959"
+  google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/MDVlOTZjODYtYTExOS00YmE3LTljYTYtNDc1NGI5NjAxNTFl?sa=X&ved=2ahUKEwiAprqPsO3qAhUC_BoKHYclBbMQkfYCegQIARAF"
+  ivoox: "https://www.ivoox.com/deuda-tecnica-dia-a-dia-audios-mp3_rf_54388088_1.html"
+  anchor: "https://anchor.fm/thebigbranchtheory"
 ---
 
 Durante los últimos episodios hemos hablado mucho sobre la sostenibilidad de software, primero hablamos sobre la [definición más formal de Deuda Técnica](/post/deuda-t%C3%A9cnica/) y luego entramos en otros matices y formas de ver las cosas respecto al software sostenible hablando de [Caring Task](/post/caring-task-deuda-tecnica-manuel-rivero/) y de [cómo nos ayuda ese enfoque distinto en el día a día](/post/caring-task-deuda-tecnica-manuel-rivero-parte-2/). 
