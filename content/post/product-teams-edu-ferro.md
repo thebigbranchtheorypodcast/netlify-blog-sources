@@ -4,11 +4,11 @@ date: 2020-09-30T19:29:02+01:00
 image: "https://blog.clickmeeting.com/uploads//2019/03/blog-collabo.jpg" # cover image absUrl
 audio: ""
 platforms:
-  spotify: ""
+  spotify: "https://open.spotify.com/episode/3Dn04IuwiCdbONcWKWBcIZ?si=HjbPKwQtRtqaFUNAJq8T8g"
   apple: ""
-  google: ""
-  ivoox: ""
-  anchor: ""
+  google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/ZjJlODM5MTktNWVlNi00YTUwLWJlZGMtYTRmODUwNzIxMDlm?sa=X&ved=2ahUKEwikgbHs2JHsAhVEaBoKHZQiBwgQkfYCegQIARAF"
+  ivoox: "https://www.ivoox.com/product-teams-eduardo-ferro-audios-mp3_rf_57307246_1.html"
+  anchor: "https://anchor.fm/thebigbranchtheory/episodes/Product-teams-con-Eduardo-Ferro-ekdlj2"
 ---
 
 # Product teams con Eduardo Ferro
@@ -27,7 +27,7 @@ Para que os hagáis una idea del contenido del podcast, la charla gira en torno 
 * ¿Qué es no code?
 * ...
 
-Esperamos que os guste. Ya sabéis, cualquier comentario o feedback que tengáis será bienvenido. Podéis contactarnos por [Twitter](https://twitter.com/BigBranchTheory), en la caja de comentarios o si lo preferís por email(thebigbranchtheory@gmail.com).
+Esperamos que os guste. Ya sabéis, cualquier comentario o feedback que tengáis será bienvenido. Podéis contactarnos por [Twitter](https://twitter.com/BigBranchTheory), en la caja de comentarios o si lo preferís por email (thebigbranchtheory@gmail.com).
 
 ## Recursos del episodio
 
