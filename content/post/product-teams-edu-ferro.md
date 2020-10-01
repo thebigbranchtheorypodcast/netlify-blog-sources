@@ -5,7 +5,7 @@ image: "https://blog.clickmeeting.com/uploads//2019/03/blog-collabo.jpg" # cover
 audio: ""
 platforms:
   spotify: "https://open.spotify.com/episode/3Dn04IuwiCdbONcWKWBcIZ?si=HjbPKwQtRtqaFUNAJq8T8g"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/product-teams-con-eduardo-ferro/id1511403790?i=1000493125934"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/ZjJlODM5MTktNWVlNi00YTUwLWJlZGMtYTRmODUwNzIxMDlm?sa=X&ved=2ahUKEwikgbHs2JHsAhVEaBoKHZQiBwgQkfYCegQIARAF"
   ivoox: "https://www.ivoox.com/product-teams-eduardo-ferro-audios-mp3_rf_57307246_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Product-teams-con-Eduardo-Ferro-ekdlj2"
