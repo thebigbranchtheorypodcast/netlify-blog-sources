@@ -18,5 +18,5 @@ deploy:
 	cd public
 	git checkout master
 	git add .
-	git commit -m "A commit message"
+	git commit -m "update"
 	git push
