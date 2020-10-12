@@ -14,7 +14,7 @@ shell: stop build
 
 deploy:
 	git submodule update --init
-	docker-compose run blog
+	docker-compose run --entrypoint hugo blog
 	cd public
 	git checkout master
 	git add .
