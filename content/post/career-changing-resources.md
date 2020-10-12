@@ -1,6 +1,6 @@
 ---
 title: "Career Changing Resources"
-date: 2020-10-12
+date: 2020-10-14
 image: "/covers/career-changing-resources.jpg" 
 audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-9-12/117641083-44100-2-aeb5d162e4568.m4a"
 platforms:
