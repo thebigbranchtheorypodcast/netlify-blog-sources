@@ -1,7 +1,7 @@
 ---
 title: "Deuda Tecnica en El Dia a Dia"
 date: 2020-07-22
-image: https://thebigbranchtheorypodcast.github.io/covers/deuda-tecnica-dia-a-dia.jpg
+image: /covers/deuda-tecnica-dia-a-dia.jpg
 audio: ""
 platforms:
   spotify: "https://open.spotify.com/episode/7td3dNAB968AxgCzHwi8RQ"

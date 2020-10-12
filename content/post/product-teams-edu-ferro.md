@@ -1,7 +1,7 @@
 ---
 title: "Product Teams Edu Ferro"
 date: 2020-09-30T19:29:02+01:00
-image: "https://blog.clickmeeting.com/uploads//2019/03/blog-collabo.jpg" # cover image absUrl
+image: /covers/product-teams-edu-ferro.jpg
 audio: ""
 platforms:
   spotify: "https://open.spotify.com/episode/3Dn04IuwiCdbONcWKWBcIZ?si=HjbPKwQtRtqaFUNAJq8T8g"

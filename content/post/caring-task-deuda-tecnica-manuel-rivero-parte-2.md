@@ -1,7 +1,7 @@
 ---
 title: "Caring Task con Manuel Rivero, Parte 2."
 date: 2020-06-13
-image: https://thebigbranchtheorypodcast.github.io/covers/metodo-caring.jpg
+image: /covers/metodo-caring.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/15132365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-13%2F81929919-44100-2-dd07ae98d4686.mp3"
 platforms:
   spotify: "https://open.spotify.com/episode/6DC3DWaSXRnnB76iDp0wpr"
