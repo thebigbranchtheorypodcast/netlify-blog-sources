@@ -2,7 +2,7 @@
 title: "Product Teams Edu Ferro"
 date: 2020-09-30T19:29:02+01:00
 image: /covers/product-teams-edu-ferro.jpg
-audio: ""
+audio: "https://anchor.fm/s/56e0f78/podcast/play/20419618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-30%2Fb1c843a3-07a9-bdc3-a5b0-ed0fd264f36c.mp3"
 platforms:
   spotify: "https://open.spotify.com/episode/3Dn04IuwiCdbONcWKWBcIZ?si=HjbPKwQtRtqaFUNAJq8T8g"
   apple: "https://podcasts.apple.com/es/podcast/product-teams-con-eduardo-ferro/id1511403790?i=1000493125934"
