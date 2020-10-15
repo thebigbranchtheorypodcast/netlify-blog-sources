@@ -8,7 +8,7 @@ platforms:
   apple: ""
   google: ""
   ivoox: ""
-  anchor: ""
+  anchor: "https://anchor.fm/thebigbranchtheory/episodes/Career-changing-resources-ekv45q"
 ---
 
 Todos y todas hemos alguna vez leído alguna bibliografía o recurso que nos haya marcado o nos haya dejado huella. En este podcast para volver a empezar la nueva temporada de The Big Branch Theory, queríamos compartir tres de ellos que nos fueron muy queridos o que nos hayan gustado mucho (decimos tres, pero bueno, ya os daréis cuenta de que fueron algunos más).
@@ -17,9 +17,20 @@ Con este podcast queda iniciada la nueva temporada de The Big Branch Theory, os 
 
 ## Artículos
 
+- [What is software design jack reeves 1992 c++ journal](https://www.developerdotstar.com/mag/articles/reeves_design.html)
+- [Characterizing people as non-linear 1st order components in software development: Alistair corckburn 1999] (https://gwbrown.keybase.pub/FavoritePapers/Characterizing%20people%20as%20non-linear%2C%20first-order%20components%20in%20software%20development.pdf)
+- [Scotland Ruby 2011 - Real Software Engineering Glen Vanderburg](https://vanderburg.org/speaking/#rse)
 - [The Humble Programmer by Edsger W. Dijkstra (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) (Juan) (Gracias a Rachel por recomendarmelo a mi hace unos años :smile:)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean) (Juan)
 - [Microtest TDD is Gray-Box](https://www.geepawhill.org/2020/07/24/microtest-tdd-is-gray-box/)
+- [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development. J.B. Rainsberger](https://www.youtube.com/watch?v=WSes_PexXcA)
+- [Comparing Explore, Expand, and Extract: Topics in 3X. Kent Beck](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558/)
+- [Getting it right by betting on wrong. Sandi Metz](https://sandimetz.com/blog/2014/05/28/betting-on-wrong)
+- [Modelling Time. Eric Evans. DDD Europe 2018](https://www.youtube.com/watch?v=T29WzvaPNc8)
+- [The Wrong Abstraction. Sandi Metz](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [Maximum impact, minimum effort. Gojko Adzic](https://www.youtube.com/watch?v=SVo3Tzru9o4)
+- [The Best Practices for a Great Developer Experience. Hacker Noon](https://hackernoon.com/the-best-practices-for-a-great-developer-experience-dx-9036834382b0)
+- [NoSoloTech](https://twitter.com/nosolotech)
 
 ## Web
 
@@ -30,13 +41,23 @@ Con este podcast queda iniciada la nueva temporada de The Big Branch Theory, os 
 - [Katrina Owen](http://www.kytrinyx.com/)
 - [Sandi Metz](https://sandimetz.com/)
 - [GeePawHill](https://www.geepawhill.org/)
+- [J.B. Rainsberger](https://twitter.com/jbrains)
+- [Kent Beck](https://twitter.com/KentBeck)
+- [Eric Evans](https://twitter.com/ericevans0)
+- [Diana Aceves](https://twitter.com/diana_aceves_)
+- [Félix López](https://twitter.com/flopezluis)
+- [Katia Aresti](https://twitter.com/karesti)
+- [Jorge Barrachina](https://twitter.com/NTKOG)
+
 
 ## Libros
 
 - [99 Bottles of OOP](https://sandimetz.com/99bottles)
 - [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com/)
+- [Implementation Patterns. Kent Beck](https://www.goodreads.com/book/show/781559.Implementation_Patterns)
+- [Extreme Programming Explained: Embrace the change. Kent Beck](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
 
-En este episodio participan
+# En este episodio participan
 
 - [Alfredo Casado](https://twitter.com/AlfredoCasado)
 - [Juan Vega](https://twitter.com/juandvegarguez)
