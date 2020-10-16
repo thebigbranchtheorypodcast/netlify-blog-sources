@@ -5,7 +5,7 @@ image: "/covers/career-changing-resources.jpg"
 audio: "https://anchor.fm/s/56e0f78/podcast/play/20991610/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-12%2F117641083-44100-2-aeb5d162e4568.m4a"
 platforms:
   spotify: "https://open.spotify.com/episode/44qiJXfYmzdWYcAO0fe1El?si=0l-A4Z2pToaWZv1_br4Cfg"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/career-changing-resources/id1511403790?i=1000494863517"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/YTYzMTNkMGEtYWNiMS00OWJjLTliMTUtMDMxY2Y0NWNmZDBl?sa=X&ved=2ahUKEwi9s8CowLbsAhUL-xoKHYegCPYQkfYCegQIARAF"
   ivoox: "https://www.ivoox.com/career-changing-resources-audios-mp3_rf_57987802_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Career-changing-resources-ekv45q"
