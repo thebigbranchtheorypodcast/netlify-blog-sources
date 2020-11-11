@@ -5,9 +5,9 @@ image: "/covers/digital-minimalism.png"
 audio: "https://anchor.fm/s/56e0f78/podcast/play/22405786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-10%2F127325026-44100-2-40e32c304d86b.m4a"
 platforms:
   spotify: "https://open.spotify.com/episode/3MU8Kd311jhSA5CneEIenK?si=byZls39gQTmLoDsr8F2NhA"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/minimalismo-digital/id1511403790?i=1000498053444"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/ZTBhZmVkNDQtYzZkMi00Zjk5LTk5MjUtYTY2Mjg3ZWY1NTZk?sa=X&ved=0CAUQkfYCahcKEwiQrOiYjvnsAhUAAAAAHQAAAAAQAg"
-  ivoox: ""
+  ivoox: "https://www.ivoox.com/minimalismo-digital-audios-mp3_rf_60217180_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Minimalismo-Digital-ema96q/a-a3qc5d2"
 ---
 
