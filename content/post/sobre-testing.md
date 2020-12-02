@@ -1,7 +1,7 @@
 ---
 title: "Sobre Testing"
 date: 2020-12-02T21:32:08+01:00
-image: "covers/testing.jpg" # cover image absUrl
+image: "/covers/testing.jpg" # cover image absUrl
 audio: ""
 platforms:
   spotify: ""
