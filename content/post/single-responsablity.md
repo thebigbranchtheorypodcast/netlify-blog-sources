@@ -5,9 +5,9 @@ image: /covers/single-responsability.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/24314107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-22%2F5de32c4d-dfa6-7c2b-aa3b-e00927989e82.mp3"
 platforms:
   spotify: "https://open.spotify.com/show/0nEgeCdO0r6u1GjE3AkJM8"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/single-responsability-principle/id1511403790?i=1000503918306"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/YTljZmZkNWQtZTkzMC00N2Q3LWJlYmUtZDQyN2IxYmFlMjZj?sa=X&ved=0CAUQkfYCahcKEwjgm6vdpPbtAhUAAAAAHQAAAAAQAQ"
-  ivoox: ""
+  ivoox: "https://www.ivoox.com/single-responsability-principle-audios-mp3_rf_63236960_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Single-Responsability-Principle-eo4gpr"
 ---
 
