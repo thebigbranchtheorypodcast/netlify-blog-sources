@@ -5,9 +5,9 @@ image: /covers/developer-experience.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/25883534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2F5f973b93-d5d4-6bf7-879c-e904e16a4753.mp3"
 platforms:
   spotify: "https://open.spotify.com/episode/2CPqr52tLkEqpf424WL90Y?si=nj98jFtJRCeO5quMkz8yTA"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/developer-experience/id1511403790?i=1000506942883"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/NDRiNzNiZTYtM2E4MC00OTRkLTk3MzAtNWU1NmViYzQzZmFh?sa=X&ved=0CAUQkfYCahcKEwjIpMmp9r_uAhUAAAAAHQAAAAAQAQ"
-  ivoox: "https://www.ivoox.com/single-responsability-principle-audios-mp3_rf_63236960_1.html"
+  ivoox: "https://www.ivoox.com/developer-experience-audios-mp3_rf_64604537_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Developer-Experience-epkdee"
 ---
 
