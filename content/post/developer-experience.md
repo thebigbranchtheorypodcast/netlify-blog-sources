@@ -11,7 +11,7 @@ platforms:
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Developer-Experience-epkdee"
 ---
 
-# Single responsability ¿Principle?
+# Developer Experience
 
 Este episodio hablamos sobre Developer Experience. Una disciplina que se esta poniendo últimamente muy de moda dentro del mundo de desarrollo de software. Queremos contar un poco la experiencia que tenemos en nuestro día a día con ello y nuestras aventuras y desventuras con nuestros aciertos y equivocaciones. Al ser un tema muy génerico y que tiene muchas vertientes dentro de la misma, nos vamos a enfocar sobre la de desarrollo de herramientas y tooling interno dentro de los equipos.
 
