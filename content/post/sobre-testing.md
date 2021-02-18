@@ -22,3 +22,10 @@ El foco de este capítulo es prestar atención a los tests. Al igual que el cód
 * ¿Cuándo mockear? 
 * ¿Qué propiedades debe tener un test? 
 * …
+
+En este episodio participan
+- [Ronny Ancorini](https://twitter.com/ronnyanc)
+- [Juan David Vega](https://twitter.com/juandvegarguez)
+
+Photo by RF._.studio from Pexels
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
