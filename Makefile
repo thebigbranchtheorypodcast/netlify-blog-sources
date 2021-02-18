@@ -1,5 +1,7 @@
 .PHONY: build
 
+COMMIT = $(shell git rev-parse --short=7 HEAD)
+
 build:
 	docker-compose build blog
 
@@ -14,7 +16,7 @@ shell: stop build
 
 deploy:
 	git submodule update --init
-	cd public && git checkout master
+	cd public && git checkout master && git pull origin master
 	docker-compose run --entrypoint hugo blog
-	cd public && git add . && git commit -m "update" && git push
+	cd public && git add . && git commit -m "update to $(COMMIT)" && git push
 	
