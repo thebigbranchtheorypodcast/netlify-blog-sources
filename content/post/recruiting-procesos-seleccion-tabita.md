@@ -5,9 +5,9 @@ image: /covers/entrevistas-honestas.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/29025078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-15%2Fb1823012-05f1-8b75-9a21-5eed0d7106de.mp3"
 platforms:
   spotify: "https://open.spotify.com/episode/27LKGtP8L1PNgM05uBDUoA?si=c-Wn5_PVRMmhSaBp-3WcyQ"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/recruiting-y-procesos-de-selecci%C3%B3n-con-tabita-luis/id1511403790?i=1000513094698"
   google: "https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz&ep=14&episode=YmMyYzZjZjEtNGM1OS00ZDUzLThjYzgtMzc3ZWQ0NjRjZGU1"
-  ivoox: ""
+  ivoox: "https://www.ivoox.com/recruiting-procesos-seleccion-tabita-luis-audios-mp3_rf_66834174_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Recruiting-y-procesos-de-seleccin-con-Tabita-Luis-esk9bm"
 ---
 
