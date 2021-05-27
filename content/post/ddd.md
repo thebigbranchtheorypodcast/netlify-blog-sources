@@ -13,18 +13,22 @@ platforms:
 
 # Introducción a Domain Driven Design
 
-Alfredo Casado [@AlfredoCasado](https://twitter.com/AlfredoCasado) y Miguel Viera [@mangelviera](https://twitter.com/mangelviera) Nos cuentan sus experiencias y aventuras con DDD durante los últimos años ayudando a equipos a utilizar las prácticas y herramientas que DDD aportan a un equipo de producto. 
+Alfredo Casado [@AlfredoCasado](https://twitter.com/AlfredoCasado) y Miguel Viera [@mangelviera](https://twitter.com/mangelviera) Nos cuentan sus experiencias y aventuras con DDD durante los últimos años ayudando a equipos a utilizar las prácticas y herramientas que DDD aportan a un equipo de producto.
 
-En este episodio se abarca tanto la parte estratégica de DDD como la táctica, aunque con más enfoque en la primera. Pues consideramos que es la parte fundamental sobre la que DDD se basa para poder practicar DDD de la forma más efectiva. 
+En este episodio se abarca tanto la parte estratégica de DDD como la táctica, aunque con más enfoque en la primera. Pues consideramos que es la parte fundamental sobre la que DDD se basa para poder practicar DDD de la forma más efectiva.
 
 Si queréis más episodios expandiendo este tema, nos encantaría escucharlo de vosotros!
 
 Bibliografía:
-* [Domain Driven Design: Tackling Complexity in the Heart of Software. Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
-* [Patterns Principles and Practices of Domain Driven Design. Scott Millett](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design)
-* [Implementing Domain-Driven Design. Vaughn Vernon](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
-* [Domain-Driven Design Distilled. Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
+
+- [Domain Driven Design: Tackling Complexity in the Heart of Software. Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
+- [Patterns Principles and Practices of Domain Driven Design. Scott Millett](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design)
+- [Implementing Domain-Driven Design. Vaughn Vernon](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+- [Domain-Driven Design Distilled. Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
 
 Cursos:
-* [DDD Fundamentals. Steve Smith and Julie Lerman](https://www.pluralsight.com/courses/domain-driven-design-fundamentals)
-* [Modern Architecture. Dino Espósito](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)
+
+- [DDD Fundamentals. Steve Smith and Julie Lerman](https://www.pluralsight.com/courses/domain-driven-design-fundamentals)
+- [Modern Architecture. Dino Espósito](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)
+
+Si quieres dar feedback anónimo, puedes hacerlo [aquí](https://juandavidvega.typeform.com/to/p9srUA4m#episode_name=Introducci%C3%B3n%20a%20DDD)
