@@ -1,5 +1,5 @@
 ---
-title: "Introducción a DDD"
+title: "Script#1: De Kotlin a Go"
 date: 2021-05-27T00:00:00+01:00
 image: "/covers/kotlin-go.jpg" # cover image absUrl
 audio: ""
@@ -21,8 +21,6 @@ platforms:
 ## Interfaces
 
 - Vistazo general a las [interfaces](https://golangdocs.com/interfaces-in-golang)
-
-## Operaciones de listas
 
 ## Dependecias
 
