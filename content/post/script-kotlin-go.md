@@ -32,7 +32,7 @@ platforms:
 
 ## Testing:
 
-- [Sobre el paquete testing incluido en la std lib y su aproximación al testing](https://blog.alexellis.io/golang-writing-unit-tests/) (Gracias a Nacho Fuertes)
+- [Sobre el paquete testing incluido en la std lib y su aproximación al testing](https://blog.alexellis.io/golang-writing-unit-tests/)
 - Mocking con [testify](https://github.com/stretchr/testify#mock-package) y [mockery](https://github.com/vektra/mockery)
 
 ## Inferencia de tipos
@@ -49,6 +49,8 @@ platforms:
 - [Videos de codely](https://www.youtube.com/c/CodelyTv/search?query=golang)
 - Read Go code: [https://www.codetriage.com/?language=Go](https://www.codetriage.com/?language=Go)
 - [Playground](https://play.golang.org/) (Se puede probar el lenguaje, formateador incluido)
-- [https://golangresources.com/](https://golangresources.com/) (Gracias a Alba Rincón)
+- [https://golangresources.com/](https://golangresources.com/)
+
+Gracias a todos los compañeros y compañeras que me han ayudado a en esta adaptación. Con paciencia y compartiendo recursos.
 
 Si quieres dar feedback anónimo, puedes hacerlo [aquí](https://juandavidvega.typeform.com/to/p9srUA4m#episode_name=Pildora%20de%20Kotlin%20a%20Go)
