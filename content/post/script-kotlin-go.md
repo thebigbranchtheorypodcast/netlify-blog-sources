@@ -2,13 +2,13 @@
 title: "Script#1: De Kotlin a Go"
 date: 2021-05-27T00:00:00+01:00
 image: "/covers/kotlin-go.jpg" # cover image absUrl
-audio: ""
+audio: "https://anchor.fm/s/56e0f78/podcast/play/34369838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-27%2F669a3f64-5596-050a-dc9f-a7fa7d70e6da.mp3"
 platforms:
-  spotify: ""
-  apple: ""
-  google: ""
-  ivoox: ""
-  anchor: ""
+  spotify: "https://open.spotify.com/episode/3tyjKPey98bvcRkTtXGBDo?si=_naDs1D0R96sHDkM6ZAUfQ"
+  apple: "https://podcasts.apple.com/es/podcast/script-1-de-kotlin-a-go/id1511403790?i=1000523373215"
+  google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/ZDU4MWFjZGUtMDVjYS00ZjY2LThiNGMtMjMwNTYzYWE0ODNl?sa=X&ved=0CAUQkfYCahcKEwiY_s3v0uzwAhUAAAAAHQAAAAAQAQ"
+  ivoox: "https://www.ivoox.com/script-1-de-kotlin-a-go-audios-mp3_rf_70643058_1.html"
+  anchor: "https://anchor.fm/thebigbranchtheory/episodes/Script1-De-Kotlin-a-Go-e11ncre"
 ---
 
 # Script#1: De Kotlin a Go
