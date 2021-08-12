@@ -1,5 +1,5 @@
 ---
-title: "Single Responsablity ¿Principle?"
+title: "Single Responsibility ¿Principle?"
 date: 2020-12-30T18:00:12+01:00
 image: /covers/single-responsability.jpg
 audio: "https://anchor.fm/s/56e0f78/podcast/play/24314107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-22%2F5de32c4d-dfa6-7c2b-aa3b-e00927989e82.mp3"
@@ -11,7 +11,7 @@ platforms:
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Single-Responsability-Principle-eo4gpr"
 ---
 
-# Single responsability ¿Principle?
+# Single Responsibility ¿Principle?
 
 En este podcast queremos analizar un poco más en profundidad este famoso principio. Creemos que en ocasiones el principio se entiende de una manera algo superficial y nuestro diseño no está obteniendo el verdadero valor que podría de este principio. Incluso una aplicación del principio entendido de manera superficial podría ser contraproducente en algunos escenarios.
 
