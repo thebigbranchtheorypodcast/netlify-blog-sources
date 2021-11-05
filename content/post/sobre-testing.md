@@ -21,8 +21,6 @@ El foco de este capítulo es prestar atención a los tests. Al igual que el cód
 * ¿Qué tipos de tests existente? ¿Es realmente importante diferenciarlos? 
 * ¿Cuándo mockear? 
 * ¿Qué propiedades debe tener un test? 
-<<<<<<< HEAD
-* …
 
 En este episodio participan
 - [Ronny Ancorini](https://twitter.com/ronnyanc)
@@ -30,6 +28,4 @@ En este episodio participan
 
 Photo by RF._.studio from Pexels
 Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
-=======
-* …
->>>>>>> Add DDD post
+
