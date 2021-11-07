@@ -1,5 +1,6 @@
 # The Big Branch Theory Podcast Site
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a07b3db-c6b4-488b-92a7-8aea0f8a645d/deploy-status)](https://app.netlify.com/sites/silly-mcclintock-e857ad/deploys)
 
 ## :hammer: Prerequisistes
 
@@ -19,4 +20,4 @@ That command will start a local server on http://localhost:1313
 
 ## :rocket: Deploy
 
-Netlify will redeploy the page automatically on push to master
+Netlify will redeploy the page automatically on push to master. Configure domain [thebigbranchtheory.dev](https://www.thebigbranchtheory.dev)
