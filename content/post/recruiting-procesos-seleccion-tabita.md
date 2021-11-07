@@ -13,7 +13,7 @@ platforms:
 
 # Recruitng y Procesos de selección con Tabita Luis
 
-Como continuación a nuestro anterior episodio sobre [Entreistas honestas](https://thebigbranchtheorypodcast.github.io/post/entreistas-honestas/), en este episodio contamos con la colaboración especial de [Tabita Luis](https://www.linkedin.com/in/tabitaluis/), Head of People & Culture en [To Good To Go](https://toogoodtogo.org/en), además coordina la Académia People Lab en [The Heroe Camp](https://theherocamp.com/people-culture-manager/) y escribe en la newsletter [WeAll - Talento, Diversidad e Inclusión](https://www.subscribepage.com/weallnuestramision)
+Como continuación a nuestro anterior episodio sobre [Entreistas honestas](https://thebigbranchtheory.dev/post/entreistas-honestas/), en este episodio contamos con la colaboración especial de [Tabita Luis](https://www.linkedin.com/in/tabitaluis/), Head of People & Culture en [To Good To Go](https://toogoodtogo.org/en), además coordina la Académia People Lab en [The Heroe Camp](https://theherocamp.com/people-culture-manager/) y escribe en la newsletter [WeAll - Talento, Diversidad e Inclusión](https://www.subscribepage.com/weallnuestramision)
 
 Durante los  45 minutos de episodio recorremos todas las partes de lo que supone buscar trabajo. Hablamos de Cv, de ofertas de trabajo, de pruebas técnicas, como negociar salarios, como mejorar como entrevistadores...
 

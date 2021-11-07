@@ -1,11 +1,10 @@
-baseURL = "https://thebigbranchtheorypodcast.github.io/"
+baseURL = "https://thebigbranchtheor.dev/"
 languageCode = "es"
 defaultContentLanguage = "es"
 title = "The Big Branch Theory Podcast"
 theme = "hugo-swift-theme"
 enableEmoji = true
 
-disqusShortname = "thebigbranchtheorypodcast"
 googleAnalytics = "UA-167571354-1"
 
 author = "Equipo The Big Branch Theory"
