@@ -5,9 +5,9 @@ image: "/covers/experiencias-onpremise-cloud.jpg" # cover image absUrl
 audio: "https://anchor.fm/s/56e0f78/podcast/play/45109230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-20%2F238691860-44100-2-3ff1e5d9cb1df.m4a"
 platforms:
   spotify: "https://open.spotify.com/episode/6eWUnYccvQcXO1WnhnX4N7?si=62ff117b775e4882"
-  apple: ""
+  apple: "https://podcasts.apple.com/es/podcast/experiencias-episodio-1-migrando-de-on-premise-a-cloud/id1511403790?i=1000545499024"
   google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/MzBlYTQ4NjQtMjM5Yy00NGM3LTg0YjItMGFjNWY0MjhjM2Ew?sa=X&ved=0CAUQkfYCahcKEwiw8vX5mfL0AhUAAAAAHQAAAAAQAQ"
-  ivoox: ""
+  ivoox: "https://www.ivoox.com/experiencias-episodio-1-migrando-on-premise-a-cloud-audios-mp3_rf_79834584_1.html"
   anchor: "https://anchor.fm/thebigbranchtheory/episodes/Experiencias-Episodio-1-Migrando-de-On-Premise-a-Cloud-e1bv4he"
 ---
 
