@@ -2,7 +2,7 @@
 title: "Experiencias Episodio 1: Migrando de On-Premise a Cloud"
 date: 2021-12-20T00:00:00+01:00
 image: "/covers/experiencias-onpremise-cloud.jpg" # cover image absUrl
-audio: "https://anchor.fm/s/56e0f78/podcast/play/45109230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-20%2F238691860-44100-2-3ff1e5d9cb1df.m4a"
+audio: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-11-21/238892053-44100-2-a06e7c7981d74.m4a"
 platforms:
   spotify: "https://open.spotify.com/episode/6eWUnYccvQcXO1WnhnX4N7?si=62ff117b775e4882"
   apple: "https://podcasts.apple.com/es/podcast/experiencias-episodio-1-migrando-de-on-premise-a-cloud/id1511403790?i=1000545499024"
