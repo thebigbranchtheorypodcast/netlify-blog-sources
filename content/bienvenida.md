@@ -9,26 +9,31 @@ Somos un grupo de amigos que después de mucho tiempo por fin hemos dado el paso
 
 El nombre, decidido bajo arduo consenso y discusiones interminables de 10 minutos o más, es The Big Branch Theory. Para el quien no pille la tontería, pensad en Trunk Based Development, una práctica de la que hemos hablado en muchas ocasiones… sí, ese es el nivel jaja.
 
-Lejos de ser un grupo cerrados nos gustaría contar con el mayor número de opiniones posibles, puedes contactarnos en twitter o si prefieres enviamos un mail a thebigbranchtheory@gmail.com
+Lejos de ser un grupo cerrados nos gustaría contar con el mayor número de opiniones posibles, puedes contactarnos en twitter o [en este formulario](https://juandavidvega.typeform.com/to/qlQ4TuUK)
 
 
-Main:
+## Main:
+
+Personas que mantenemos el podcast a día de hoy
+
 {{< rawHtml >}}
-<div style="">
-<div>
-<img src="/avatar/alfredo.jpg" />
-<a href="https://twitter.com/AlfredoCasado">Alfredo Casdo</a>
-<p>Más de 20 años programando. Durante los últimos años ha liderado equipos con métodos ágiles como Extreme Programming y prácticas como DDD (Domain Driven Design). Miembro veterano y conocido de la comunidad Java Hispano.</p>
+<div class="members">
+    <div class="member">
+        <img src="https://www.thebigbranchtheory.dev/avatar/alfredo.jpeg" />
+        <a href="https://twitter.com/AlfredoCasado">Alfredo Casdo</a>
+    </div>
+    <div class="member">
+        <img src="https://www.thebigbranchtheory.dev/avatar/miguel.jpeg" />
+        <a href="https://twitter.com/mangelviera">Miguel Viera</a>
+    </div>
+    <div class="member">
+        <img src="https://www.thebigbranchtheory.dev/avatar/juan.jpg" />
+        <a href="https://twitter.com/juandvegarguez">Juan Vega</a>
+    </div>
 </div>
-</div> 
 {{< /rawHtml >}}
 
-- [Alfredo Casado]()
-- [Juan Vega](https://twitter.com/juandvegarguez)
-- [Miguel Viera](https://twitter.com/mangelviera)
-
-
-v0.2:
+## v0.2:
 
 Algunas personas que han sido claves en el desarrollo del podcast, aunque ya no participan de forma habitual:
 
