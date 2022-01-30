@@ -38,3 +38,4 @@ paginate = 10
 #   [Params.staticman.reCaptcha]
 #     siteKey = ""  # Use your own site key, you need to apply for one on Google
 #     secret  = ""  # ENCRYPT your password by going to https://<staticman-endpoint>/v3/encrypt/<your-site-secret>
+sponsor = "by Codesai"

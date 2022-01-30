@@ -12,12 +12,28 @@ El nombre, decidido bajo arduo consenso y discusiones interminables de 10 minuto
 Lejos de ser un grupo cerrados nos gustaría contar con el mayor número de opiniones posibles, puedes contactarnos en twitter o si prefieres enviamos un mail a thebigbranchtheory@gmail.com
 
 
-Participantes habituales:
+Main:
+{{< rawHtml >}}
+<div style="">
+<div>
+<img src="/avatar/alfredo.jpg" />
+<a href="https://twitter.com/AlfredoCasado">Alfredo Casdo</a>
+<p>Más de 20 años programando. Durante los últimos años ha liderado equipos con métodos ágiles como Extreme Programming y prácticas como DDD (Domain Driven Design). Miembro veterano y conocido de la comunidad Java Hispano.</p>
+</div>
+</div> 
+{{< /rawHtml >}}
 
-- [Alfredo Casado](https://twitter.com/AlfredoCasado)
-- [Daniel Ojeda](https://twitter.com/SuuiGD) 
+- [Alfredo Casado]()
 - [Juan Vega](https://twitter.com/juandvegarguez)
 - [Miguel Viera](https://twitter.com/mangelviera)
+
+
+v0.2:
+
+Algunas personas que han sido claves en el desarrollo del podcast, aunque ya no participan de forma habitual:
+
 - [Ronny Ancorini](https://twitter.com/RonnyAncorini)
+- [Daniel Ojeda](https://twitter.com/SuuiGD) 
+
 
 Foto de https://pexels.com
