@@ -2,13 +2,13 @@
 title: "Inteligencia Artificial y Código con Carlos Santana (DotCSV)"
 date: 2022-04-20T00:00:00+01:00
 image: "/covers/ai-codigo-podcast.jpg" # cover image absUrl
-audio: ""
+audio: "https://anchor.fm/s/56e0f78/podcast/play/50783472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-3-19%2F260478358-48000-2-c13fa6903923c.mp3"
 platforms:
-  spotify: ""
-  apple: ""
-  google: ""
-  ivoox: ""
-  anchor: ""
+  spotify: "https://open.spotify.com/episode/4lLubpt8qQrAFN8HowOdZd?si=YH0uqktiR0qa4Lhvx4d9mQ"
+  apple: "https://podcasts.apple.com/es/podcast/inteligencia-artificial-e-ingenier%C3%ADa-de-software-con/id1511403790?i=1000558186720"
+  google: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NmUwZjc4L3BvZGNhc3QvcnNz/episode/NjYzYzI5MjMtY2U3Yy00Y2M2LWJiZmYtZWI4MGQ3MWQ2ZTkz?sa=X&ved=0CAUQkfYCahcKEwiI_PfI4aT3AhUAAAAAHQAAAAAQAQ"
+  ivoox: "https://www.ivoox.com/en/inteligencia-artificial-e-ingenieria-software-carlos-audios-mp3_rf_86019333_1.html"
+  anchor: "https://anchor.fm/thebigbranchtheory/episodes/Inteligencia-Artificial-e-Ingeniera-de-Software-con-Carlos-Santana-DotCSV-e1hc9pg"
 ---
 
 # Inteligencia Artificial y Código: El siguiente nivel de abstración con Carlos Santana (DotCSV)
