@@ -1,7 +1,7 @@
 ---
 title: "Esto es The Big Branch Theory Podcast"
 date: 2020-04-01
-image: https://thebigbranchtheory.dev/covers/bienvenida.jpg
+image: https://bigbranchtheory.dev/covers/bienvenida.jpg
 ---
 
 
