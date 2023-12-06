@@ -7,10 +7,6 @@ enableEmoji = true
 
 googleAnalytics = "UA-167571354-1"
 
-author = "Equipo The Big Branch Theory"
-copyright = "Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional."
-canonifyurls = true
-paginate = 10
 
 
 # Enable syntax highlighting
@@ -19,10 +15,11 @@ paginate = 10
 # pygmentsCodefencesGuessSyntax = true
 
 [params]
+  description = "Podcast sobres ser Software Engineer: Buenas prácticas, entrevistas y experiencias. 🎙 @AlfredoCasado @mangelviera @juandvegarguez. Patrocinado por @codesaidev"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
+  twitter = "@BigBranchTheory" # twitter handle e.g @weru
   logo = "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/810990/810990-1587195045376-dc8abe3d7f706.jpg"
   # author = "Weru" # default author
   image = "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/810990/810990-1587195045376-dc8abe3d7f706.jpg" # used whenever a page image is not set

@@ -14,5 +14,4 @@
 {{- $mainScriptPath := "js/index.js" }}
 {{- $scripts := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
 {{ template "_internal/google_analytics.html" . }}
-<script async defer data-website-id="e5274002-513b-4233-a15c-659961587aef" src="https://juanvega-umami.herokuapp.com/umami.js"></script>
 <script src = '{{ $scripts.Permalink }}'></script>

@@ -1,5 +1,5 @@
 {{- $summary := .Summary | truncate 160 }}
-{{- with .Params.description }}
+{{- with .Site.Params.description }}
   {{- $summary = (. | truncate 160) }}
 {{- end }}
 {{- $site := .Site.Title }}
@@ -7,7 +7,7 @@
 {{- $params := .Site.Params }}
 {{- $permalink := .Permalink }}
 {{- $logo := $params.logo }}
-{{- $image := absURL (printf "images/%s" $params.image) }}
+{{- $image := $params.image }}
 {{- $author := $params.author }}
 {{- with .Params.author }}
   {{ $author := . }}
@@ -25,8 +25,8 @@
 <meta name="description" content="{{ $summary }}">
 <meta property = 'og:description' content = '{{ $summary }}'>
 <meta property = 'og:url' content = '{{ $permalink }}' />
-<meta property = 'og:image' content = '{{ $image }}'/>
-<meta name = 'twitter:card' content = 'summary_large_image' />
+<meta property = 'og:image' content = '{{ $logo }}'/>
+<meta name = 'twitter:card' content = '{{ $image }}' />
 <meta name = 'twitter:creator' content = '{{ $params.twitter }}'>
 <meta name = 'twitter:title' content = '{{ .Title }}' />
 <meta property = 'twitter:description'  content = '{{ $summary }}'/>
