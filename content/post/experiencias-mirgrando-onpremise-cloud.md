@@ -22,7 +22,7 @@ En este episodio invitamos a dos nuevos compañeros, Aitor Alzola y Víctor Fern
 Trataremos desde varios puntos de vista lo que ha supuesto para Lifull y para el equipo de Nuroa tomar la decisión de migrar de una plataforma completamente en on-premise a un entorno en Cloud AWS desde cero, los grandes retos que se tuvieron que superar para conseguirlo y además como hacerlo poco a poco para nunca dejar de dar servicio de la aplicación en el camino. Aitor es Tech Lead del equipo y contara los retos desde un punto de vista orientada a la integración entre producto y desarrollo, mientras Miguel y Víctor os contarán pues la peripecias de colaborar hasta conseguir tener la aplicación totalmente migrada en AWS (spoiler!). Sin más os animamos a escuchar nuestra experiencia y que nos deis feedback del episodio.
 
 Recordad que siempre podeis contactar con nosotros en cualquiera de los canales de Twitter: [https://twitter.com/BigBranchTheory](https://twitter.com/BigBranchTheory)
-En nuestra web dejándonos un comentario: [https://www.thebigbranchtheory.dev](https://www.thebigbranchtheory.dev)
+En nuestra web dejándonos un comentario: [https://bigbranchtheory.dev](https://bigbranchtheory.dev)
 O a cualquiera de nuestros participantes:
 
 - Aitor Alzola: [@Aitortxu](https://twitter.com/Aitortxu)

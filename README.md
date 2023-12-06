@@ -20,4 +20,4 @@ That command will start a local server on http://localhost:1313
 
 ## :rocket: Deploy
 
-Netlify will redeploy the page automatically on push to master. Configure domain [thebigbranchtheory.dev](https://www.thebigbranchtheory.dev)
+Netlify will redeploy the page automatically on push to master. Configure domain [bigbranchtheory.dev](https://bigbranchtheory.dev)

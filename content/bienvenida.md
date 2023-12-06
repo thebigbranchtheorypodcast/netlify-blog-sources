@@ -19,15 +19,15 @@ Personas que mantenemos el podcast a día de hoy
 {{< rawHtml >}}
 <div class="members">
     <div class="member">
-        <img src="https://www.thebigbranchtheory.dev/avatar/alfredo.jpeg" />
+        <img src="https://bigbranchtheory.dev/avatar/alfredo.jpeg" />
         <a href="https://twitter.com/AlfredoCasado">Alfredo Casdo</a>
     </div>
     <div class="member">
-        <img src="https://www.thebigbranchtheory.dev/avatar/miguel.jpeg" />
+        <img src="https://bigbranchtheory.dev/avatar/miguel.jpeg" />
         <a href="https://twitter.com/mangelviera">Miguel Viera</a>
     </div>
     <div class="member">
-        <img src="https://www.thebigbranchtheory.dev/avatar/juan.jpg" />
+        <img src="https://bigbranchtheory.dev/avatar/juan.jpg" />
         <a href="https://twitter.com/juandvegarguez">Juan Vega</a>
     </div>
 </div>

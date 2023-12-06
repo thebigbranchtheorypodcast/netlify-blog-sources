@@ -21,8 +21,8 @@ CUPID -- for joyful coding: [https://dannorth.net/2022/02/10/cupid-for-joyful-co
 # Referencias
 
 - Charla de Alfredo: https://www.youtube.com/watch?v=zptOiiRf9CE
-- Episodio SRP: https://www.thebigbranchtheory.dev/post/single-responsablity/
-- Episodio OCP:https://www.thebigbranchtheory.dev/post/open-close-principle/
+- Episodio SRP: https://bigbranchtheory.dev/post/single-responsablity/
+- Episodio OCP:https://bigbranchtheory.dev/post/open-close-principle/
 
 [Photo by DS stories from Pexels](https://www.pexels.com/photo/pink-hearts-on-pink-surface-7679919/)
 
